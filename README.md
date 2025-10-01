@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0319-bulb-switcher) |
+| [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Brainteaser
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Geometry
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Sorting
 |  |
