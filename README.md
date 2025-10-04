@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0050-powx-n) |
+| [0168-excel-sheet-column-title](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0319-bulb-switcher) |
 | [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
