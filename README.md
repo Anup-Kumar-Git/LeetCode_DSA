@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -34,8 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0168-excel-sheet-column-title) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
