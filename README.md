@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
+| [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Geometry
@@ -60,4 +61,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
+## Binary Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
+## Matrix
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
