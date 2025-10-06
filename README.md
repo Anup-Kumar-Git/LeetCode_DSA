@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0050-powx-n) |
+| [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0319-bulb-switcher) |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Sorting
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+## Hash Table
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
