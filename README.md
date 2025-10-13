@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Geometry
 |  |
@@ -108,5 +109,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
