@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 ## Combinatorics
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
