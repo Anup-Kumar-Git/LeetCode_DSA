@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 ## Combinatorics
 |  |
