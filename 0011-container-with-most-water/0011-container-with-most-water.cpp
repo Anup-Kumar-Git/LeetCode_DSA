@@ -19,8 +19,8 @@ public:
         int rp=height.size()-1;
         int maxWater=0;
         while(lp<rp){
-            int w=rp-lp;
-            int ht=min(height[lp],height[rp]);
+            int w=rp-lp; //width
+            int ht=min(height[lp],height[rp]); //height of containeer
             int currWater=w*ht;
             maxWater=max(currWater,maxWater);
             height[lp]<height[rp] ? lp++ : rp--;
