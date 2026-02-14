@@ -13,39 +13,39 @@ public:
         // }return ans;
 
     // OPTIMAL but SPACE COMPLEXITY IS 0(N)-------------------------------------------------------------
+        // int n=nums.size();
+        // vector<int>ans(n,1);
+        // vector<int>prefix(n,1);
+        // vector<int>sufix(n,1);
+        // // prefix
+        // for(int i=1;i<n;i++){
+        //     prefix[i]=prefix[i-1]*nums[i-1];
+        // }
+        // // sufix
+        // for(int i=n-2;i>=0;i--){
+        //     sufix[i]=sufix[i+1]*nums[i+1];
+        // }
+        // // store answer
+        // for(int i=0;i<n;i++){
+        //     ans[i]=prefix[i]*sufix[i];
+        // }
+        // return ans;
+
+
+    // BEST OPTIMAL APPROACH-------------
+
         int n=nums.size();
         vector<int>ans(n,1);
-        vector<int>prefix(n,1);
-        vector<int>sufix(n,1);
-        // prefix
+        // calculate prefix and store in ans[]
         for(int i=1;i<n;i++){
-            prefix[i]=prefix[i-1]*nums[i-1];
+            ans[i]=ans[i-1]*nums[i-1];
         }
-        // sufix
+        // calculate sufix and store in varible sufix then in ans[]
+        int sufix=1;
         for(int i=n-2;i>=0;i--){
-            sufix[i]=sufix[i+1]*nums[i+1];
-        }
-        // store answer
-        for(int i=0;i<n;i++){
-            ans[i]=prefix[i]*sufix[i];
+            sufix *=nums[i+1];
+            ans[i] *=sufix;;
         }
         return ans;
-
-
-    // BEST OPTIMAL APPROACH
-
-    //     int n=nums.size();
-    //     vector<int>ans(n,1);
-    //     // calculate prefix and store in ans[]
-    //     for(int i=1;i<n;i++){
-    //         ans[i]=ans[i-1]*nums[i-1];
-    //     }
-    //     // calculate sufix and store in varible sufix then in ans[]
-    //     int sufix=1;
-    //     for(int i=n-2;i>=0;i--){
-    //         sufix *=nums[i+1];
-    //         ans[i] *=sufix;;
-    //     }
-    //     return ans;
     }
 };
