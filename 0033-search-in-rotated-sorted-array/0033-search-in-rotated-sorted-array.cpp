@@ -10,13 +10,13 @@ public:
                 return mid;
             }
 
-            if(nums[start] <= nums[mid]){
+            if(nums[start] <= nums[mid]){ //left search
                 if(nums[start] <= target && target <= nums[mid]){
                     end=mid-1;
                 }else{
                     start=mid+1;
                 }
-            }else{
+            }else{   //right search
                 if(nums[mid] <= target && target <= nums[end]){
                     start = mid+1;
                 }else{
