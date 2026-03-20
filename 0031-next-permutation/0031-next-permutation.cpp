@@ -22,7 +22,7 @@ public:
                 break;
             }
         }
-        //3rd step:-  if element arrter pivot in increasing order-------------
+        //3rd step:-  if element arrter pivot in increasing order,then next larger -------------
         // reverse(arr.begin() + pivot+1,arr.end());
         int i=pivot+1;
         int j=n-1;
