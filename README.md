@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0053-maximum-subarray) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
