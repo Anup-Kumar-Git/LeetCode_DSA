@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
