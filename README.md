@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
 ## Binary Search
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
