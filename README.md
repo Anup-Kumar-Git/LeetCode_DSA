@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0443-string-compression) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0443-string-compression) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
