@@ -22,20 +22,20 @@ public:
             }
 
             //bottom
-            for(int j=ecol-1;j>=scol;j--){
-                if(srow==erow){
-                    break;
+            if(srow < erow){
+                for(int j=ecol-1;j>=scol;j--){
+                    ans.push_back(matrix[erow][j]);
                 }
-                ans.push_back(matrix[erow][j]);
             }
+            
 
             //left
-            for(int j=erow-1;j>=srow+1;j--){
-                if(scol==ecol){
-                    break;
+            if(scol < ecol){
+                for(int j=erow-1;j>=srow+1;j--){
+                    ans.push_back(matrix[j][scol]);
                 }
-                ans.push_back(matrix[j][scol]);
             }
+            
             srow++;
             erow--;
             scol++;
