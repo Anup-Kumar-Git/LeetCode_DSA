@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
