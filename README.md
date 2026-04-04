@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
+| [0704-binary-search](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
