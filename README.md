@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
