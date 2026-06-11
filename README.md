@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0204-count-primes) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0168-excel-sheet-column-title) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0136-single-number) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
