@@ -1,10 +1,12 @@
 class Solution {
 public:
     int fib(int n) {
-        if(n==0 || n==1) {  //base case
+        if(n<=1){
             return n;
         }
-
-        return fib(n-1) + fib(n-2);  //function calling recursivly.
+        int last=fib(n-1);
+        int sLast=fib(n-2);
+        return last+sLast;
+        
     }
 };
