@@ -52,3 +52,25 @@ public:
         
     // }
 };
+
+
+//Using recursion------------------------------------------------------
+// class Solution {
+// public:
+//     bool check(string &s,int i) {
+//         if(i>=s.size()/2) return true;
+//         if(s[i]!=s[s.size()-1-i]) return false;
+//         return check(s,i+1);
+        
+//     }
+//     bool isPalindrome(string s){
+//         string cleaned="";
+//         for(int i=0;i<s.size();i++){
+//             char ch=s[i];
+//             if(isalnum(ch)){
+//                 cleaned +=tolower(ch);
+//             }
+//         }
+//         return check(cleaned,0);
+//     }
+// };
