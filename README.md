@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3612-process-string-with-special-operations-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3612-process-string-with-special-operations-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3838-weighted-word-mapping](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
