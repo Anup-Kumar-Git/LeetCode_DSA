@@ -31,7 +31,7 @@ public:
             long long id2=restriction[i][0];
             long long h2=restriction[i][1];
 
-            long long d= id2-id1; 
+            long long d= id2-id1; //gap
             ans= max(ans,(int)(h1+h2+d)/2);
 
         }
