@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1840-maximum-building-height](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Brainteaser
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1840-maximum-building-height](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Recursion
 |  |
