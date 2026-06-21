@@ -12,7 +12,7 @@ public:
                
             }
         }
-        if(result < coins){
+        if(result <= coins){
             return costs.size();
         }
         return ans;    
