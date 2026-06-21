@@ -22,6 +22,8 @@ public:
             if(coins >= costs[i]){
                 coins -=costs[i];
                 count++;
+            }else{
+                break;
             }
         }return count;      
     }
