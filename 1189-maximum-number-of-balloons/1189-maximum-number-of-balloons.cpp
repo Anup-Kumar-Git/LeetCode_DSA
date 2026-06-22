@@ -6,18 +6,16 @@ public:
             mp[text[i]]++;
         }
         string word="balloon";
-        unordered_map<char,int>wrd;
-        for(int i=0;i<word.length();i++){
-            wrd[word[i]]++;
-        }
-
-
         int ans=INT_MAX;
         for(int i=0;i<word.length();i++){
-            char ch=word[i];
-            int avilable=mp[ch];
-            int required=wrd[ch];
-            ans=min(ans,avilable/required);
+            int required=1;
+            if (word[i] == 'l' || word[i]=='o'){
+                required = 2;
+            }
+            ans=min(ans,mp[word[i]]/required);
+            if (word[i] == 'l'  || word[i]=='o'){
+                i++;
+            }
         }
         return ans;
         
