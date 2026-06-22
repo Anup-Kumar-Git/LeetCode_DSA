@@ -17,6 +17,21 @@ public:
                 i++;
             }
         }
+    //USING MAP TO STORE THE WORD ALSO-----------------------------------
+        // string word="balloon";
+        // unordered_map<char,int>wrd;
+        // for(int i=0;i<word.length();i++){
+        //     wrd[word[i]]++;
+        // }
+
+        // int ans=INT_MAX;
+        // for(int i=0;i<word.length();i++){
+        //     char ch=word[i];
+        //     int avilable=mp[ch];
+        //     int required=wrd[ch];
+        //     ans=min(ans,avilable/required);
+        // }
+        
         return ans;
         
     }
