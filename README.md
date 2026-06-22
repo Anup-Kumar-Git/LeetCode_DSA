@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0443-string-compression) |
+| [1189-maximum-number-of-balloons](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3612-process-string-with-special-operations-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3612-process-string-with-special-operations-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0645-set-mismatch) |
+| [1189-maximum-number-of-balloons](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
