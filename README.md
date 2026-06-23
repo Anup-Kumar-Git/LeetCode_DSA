@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0509-fibonacci-number) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
