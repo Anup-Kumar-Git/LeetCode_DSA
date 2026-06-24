@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0509-fibonacci-number) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Combinatorics
 |  |
 | ------- |
