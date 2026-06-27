@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0204-count-primes) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Number Theory
 |  |
 | ------- |
