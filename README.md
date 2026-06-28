@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Recursion
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0011-container-with-most-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
