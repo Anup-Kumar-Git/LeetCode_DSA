@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Depth-First Search
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
 | [1572-matrix-diagonal-sum](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1572-matrix-diagonal-sum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -372,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
