@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -381,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
