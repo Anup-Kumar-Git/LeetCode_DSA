@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1288-remove-covered-intervals](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0645-set-mismatch) |
+| [1288-remove-covered-intervals](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
