@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
