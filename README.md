@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0645-set-mismatch) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
