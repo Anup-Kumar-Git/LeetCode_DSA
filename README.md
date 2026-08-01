@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0575-distribute-candies) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -494,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
