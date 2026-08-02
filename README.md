@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0794-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -509,4 +512,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Anup-Kumar-Git/LeetCode_DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
